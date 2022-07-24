@@ -1,0 +1,8 @@
+Ultrasonic sensor
+https://wokwi.com/projects/337622563079324242
+
+LDR sensor:
+https://wokwi.com/projects/338041277057598034
+
+servo:
+https://wokwi.com/projects/338046262345466450
